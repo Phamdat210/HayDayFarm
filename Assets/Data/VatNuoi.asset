@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 223709fa794a1a94ba06aafcd1b8fb6f, type: 3}
+  m_Name: VatNuoi
+  m_EditorClassIdentifier: 
+  data:
+  - Id: 1
+    Name: "Chu\u1ED3ng g\xE0"
+    GiaTien: 20
+    ThuHoach: "Tr\u1EE9ng g\xE0"
+    Time: 3m.40s.
+    KinhNghiem: 10
+    TimeNuoi: 22
+    SoLuong: 0
+    DonGia: 40
+    Obj: {fileID: 5380962614503682952, guid: d2456ad09d0008d469730197881201fc, type: 3}
+    Chuong: {fileID: 21300000, guid: 3db211e0fc7fcde48a6f6be7dbc8d8e1, type: 3}
+    Animal: {fileID: 21300000, guid: 7ecf3c8dfb225ac4abccf18c27d7e3d8, type: 3}
+    Animal2: {fileID: 21300000, guid: 7ecf3c8dfb225ac4abccf18c27d7e3d8, type: 3}
+    Animal3: {fileID: 21300000, guid: 7ecf3c8dfb225ac4abccf18c27d7e3d8, type: 3}
+    Animal4: {fileID: 21300000, guid: 7ecf3c8dfb225ac4abccf18c27d7e3d8, type: 3}
+    ThuHoachDe: {fileID: 21300000, guid: 3f81a6318351d0d42bfca635a87c2aa4, type: 3}
+  - Id: 2
+    Name: "Chu\u1ED3ng heo"
+    GiaTien: 35
+    ThuHoach: "Th\u1ECBt l\u1EE3n"
+    Time: 6m.0s.
+    KinhNghiem: 20
+    TimeNuoi: 36
+    SoLuong: 0
+    DonGia: 50
+    Obj: {fileID: 5380962614503682952, guid: d2456ad09d0008d469730197881201fc, type: 3}
+    Chuong: {fileID: 21300000, guid: 39e97dc37cc7e5c42aad11d0719bd389, type: 3}
+    Animal: {fileID: 21300000, guid: e528c766b929b9547a717800049cf4a1, type: 3}
+    Animal2: {fileID: 21300000, guid: e528c766b929b9547a717800049cf4a1, type: 3}
+    Animal3: {fileID: 21300000, guid: e528c766b929b9547a717800049cf4a1, type: 3}
+    Animal4: {fileID: 21300000, guid: e528c766b929b9547a717800049cf4a1, type: 3}
+    ThuHoachDe: {fileID: 21300000, guid: db219d1baff61304eb51d5612831a4a6, type: 3}
+  - Id: 3
+    Name: "Chu\u1ED3ng b\xF2"
+    GiaTien: 45
+    ThuHoach: "Th\u1ECBt b\xF2"
+    Time: 8m.0s
+    KinhNghiem: 25
+    TimeNuoi: 48
+    SoLuong: 0
+    DonGia: 80
+    Obj: {fileID: 5380962614503682952, guid: d2456ad09d0008d469730197881201fc, type: 3}
+    Chuong: {fileID: 21300000, guid: 39e97dc37cc7e5c42aad11d0719bd389, type: 3}
+    Animal: {fileID: 21300000, guid: 4b191dd6eb31d034d83e78ab56dabcbc, type: 3}
+    Animal2: {fileID: 21300000, guid: 4b191dd6eb31d034d83e78ab56dabcbc, type: 3}
+    Animal3: {fileID: 21300000, guid: 4b191dd6eb31d034d83e78ab56dabcbc, type: 3}
+    Animal4: {fileID: 21300000, guid: 4b191dd6eb31d034d83e78ab56dabcbc, type: 3}
+    ThuHoachDe: {fileID: 21300000, guid: 6ba3a9c8a1bcb7b4d80b97b8a6f7f6b4, type: 3}
+  - Id: 4
+    Name: "Chu\u1ED3ng c\u1EEBu"
+    GiaTien: 60
+    ThuHoach: "Th\u1ECBt c\u1EEBu"
+    Time: 8m.50s
+    KinhNghiem: 40
+    TimeNuoi: 53
+    SoLuong: 0
+    DonGia: 150
+    Obj: {fileID: 5380962614503682952, guid: d2456ad09d0008d469730197881201fc, type: 3}
+    Chuong: {fileID: 21300000, guid: 39e97dc37cc7e5c42aad11d0719bd389, type: 3}
+    Animal: {fileID: 21300000, guid: 09c64454fa148584fa4226285d018ab3, type: 3}
+    Animal2: {fileID: 21300000, guid: 09c64454fa148584fa4226285d018ab3, type: 3}
+    Animal3: {fileID: 21300000, guid: 09c64454fa148584fa4226285d018ab3, type: 3}
+    Animal4: {fileID: 21300000, guid: 09c64454fa148584fa4226285d018ab3, type: 3}
+    ThuHoachDe: {fileID: 21300000, guid: bc37dfa5dc4a9fb4c815ac3bd0daac2f, type: 3}

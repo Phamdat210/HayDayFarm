@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bfc64eaca8fee94390aee282920b2a8, type: 3}
+  m_Name: Cay
+  m_EditorClassIdentifier: 
+  data:
+  - Id: 1
+    Name: "C\xE2y l\xFAa"
+    Img1: {fileID: 21300000, guid: 22aa296321b09874898de313afc869b1, type: 3}
+    Img2: {fileID: 21300000, guid: 9aca2805167570641aa219d5b74931fb, type: 3}
+    Img3: {fileID: 21300000, guid: f1c6cff91c22ffe448e620279ecb57ab, type: 3}
+    Seed: {fileID: 21300000, guid: bfa1d26790e31164ea31e7b0fb062159, type: 3}
+    SeedLock: {fileID: 21300000, guid: 76bad38af28173c47bf9526fe9422099, type: 3}
+    DonGia: 1
+    TimeCreate: 3
+    GiaTien: 3
+    KinhNghiem: 3
+    Time: 0m.30s
+    Sp: "5 G\u1EA1o"
+    LvUnLock: 1
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 2
+    Name: Khoai
+    Img1: {fileID: 21300000, guid: ca203ba5e01daa24eab4c52bf5bd485f, type: 3}
+    Img2: {fileID: 21300000, guid: ec46ff8c13777524ebf462f1224973d2, type: 3}
+    Img3: {fileID: 21300000, guid: 4d090e4b4ab9c82438782a2c3d5d7f02, type: 3}
+    Seed: {fileID: 21300000, guid: 59f76c25d72932147b7079210462bfc3, type: 3}
+    SeedLock: {fileID: 21300000, guid: 092f68cd039429849b7ec43f62fbb227, type: 3}
+    DonGia: 2
+    TimeCreate: 4
+    GiaTien: 7
+    KinhNghiem: 4
+    Time: 0m.40s.
+    Sp: "5 C\u1EE7 Khoai"
+    LvUnLock: 2
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 3
+    Name: "Ng\xF4"
+    Img1: {fileID: 21300000, guid: c2cb7fee242209b40b8b4ccee45ce655, type: 3}
+    Img2: {fileID: 21300000, guid: 49e8163ea03314d4898c1ce37183478e, type: 3}
+    Img3: {fileID: 21300000, guid: 51a85c1bdbe0f11419810d1e3527a1b7, type: 3}
+    Seed: {fileID: 21300000, guid: a081ed776ff4dfe4a8cc54e6443c97bf, type: 3}
+    SeedLock: {fileID: 21300000, guid: d771537c11dee154497616cbc7888eb6, type: 3}
+    DonGia: 3
+    TimeCreate: 5
+    GiaTien: 10
+    KinhNghiem: 5
+    Time: 0m.50s.
+    Sp: "5 Ng\xF4"
+    LvUnLock: 4
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 4
+    Name: "C\xE0 chua"
+    Img1: {fileID: 21300000, guid: ca203ba5e01daa24eab4c52bf5bd485f, type: 3}
+    Img2: {fileID: 21300000, guid: 677ecb36ecffccc4a8abc2f59680bc44, type: 3}
+    Img3: {fileID: 21300000, guid: 274eddc6310e41f4794e903a31b7e514, type: 3}
+    Seed: {fileID: 21300000, guid: 902135f181abb9c44893915ee4495ee1, type: 3}
+    SeedLock: {fileID: 21300000, guid: 082051329a792f0428781a935ba242a3, type: 3}
+    DonGia: 4
+    TimeCreate: 6
+    GiaTien: 15
+    KinhNghiem: 6
+    Time: 1m.0s.
+    Sp: "5 Qu\u1EA3 C\xE0 Chua"
+    LvUnLock: 6
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 5
+    Name: "\u0110\u1ED7 t\u01B0\u01A1ng"
+    Img1: {fileID: 21300000, guid: 6df124dfb87c90143a8f8123af8e50e1, type: 3}
+    Img2: {fileID: 21300000, guid: 87b639cc2f325af4a9cb2922940746ea, type: 3}
+    Img3: {fileID: 21300000, guid: 7f8602315febbc342aa095b58bfac7a6, type: 3}
+    Seed: {fileID: 21300000, guid: 9aec69f0d3bfe3b49ab3147e98bcc47c, type: 3}
+    SeedLock: {fileID: 21300000, guid: 576b259cbf17ee54cb9ba5f87da774a7, type: 3}
+    DonGia: 5
+    TimeCreate: 11
+    GiaTien: 18
+    KinhNghiem: 7
+    Time: 1m.10s.
+    Sp: "5 H\u1EA1t \u0110\u1ED7"
+    LvUnLock: 7
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 6
+    Name: "C\xE0 t\xEDm"
+    Img1: {fileID: 21300000, guid: 2e75448745045b648ba87bb75fafd6cd, type: 3}
+    Img2: {fileID: 21300000, guid: 2f4a606d1eafa9e419bb1337b0fca185, type: 3}
+    Img3: {fileID: 21300000, guid: f82c6795120e4f8419d1cd48cccb31f5, type: 3}
+    Seed: {fileID: 21300000, guid: f99a71f05b06e5340a5f2b544a4a1e5e, type: 3}
+    SeedLock: {fileID: 21300000, guid: 79a67ad433f4cd145b5a561aa38fc956, type: 3}
+    DonGia: 6
+    TimeCreate: 10
+    GiaTien: 15
+    KinhNghiem: 8
+    Time: 1m.40s
+    Sp: "5 Qu\u1EA3 C\xE0 T\xEDm"
+    LvUnLock: 9
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 7
+    Name: "B\xED ng\xF4"
+    Img1: {fileID: 21300000, guid: a6a5d980c9b7f4b49afe57d6ff0c9bf6, type: 3}
+    Img2: {fileID: 21300000, guid: 3f8e78537da617c4b884f139e1edb291, type: 3}
+    Img3: {fileID: 21300000, guid: fe9a08562ec74b2448822d78138487b6, type: 3}
+    Seed: {fileID: 21300000, guid: 089d0f83c98a82e499f05c7efa331e1f, type: 3}
+    SeedLock: {fileID: 21300000, guid: 1e2d088489575c04c9fa797c5208a0fe, type: 3}
+    DonGia: 7
+    TimeCreate: 12
+    GiaTien: 21
+    KinhNghiem: 9
+    Time: 2m.0s
+    Sp: "5 Qu\u1EA3 B\xED Ng\xF4"
+    LvUnLock: 12
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 8
+    Name: "D\xE2u t\xE2y"
+    Img1: {fileID: 21300000, guid: e0b16c357abaa6249b869b47a61f39a6, type: 3}
+    Img2: {fileID: 21300000, guid: f3a47d7f8fe7ea44ea34f83424effca8, type: 3}
+    Img3: {fileID: 21300000, guid: 7a373f51007626149931f0ecbb70c1e9, type: 3}
+    Seed: {fileID: 21300000, guid: 0e195ca67a29d8942a6b5652b0766849, type: 3}
+    SeedLock: {fileID: 21300000, guid: 9c286a2a920fa46429f50c79d87acff9, type: 3}
+    DonGia: 10
+    TimeCreate: 15
+    GiaTien: 23
+    KinhNghiem: 10
+    Time: 2m.30s
+    Sp: "5 D\xE2u T\xE2y"
+    LvUnLock: 15
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 9
+    Name: "D\u01B0a h\u1EA5u"
+    Img1: {fileID: 21300000, guid: 8b1a3ae0cd7f40145b7b61b36d18bbf6, type: 3}
+    Img2: {fileID: 21300000, guid: ded71bdd382bc514ebdfb8b2c925eb60, type: 3}
+    Img3: {fileID: 21300000, guid: 041a439006d9ac447a92424ffa6af78a, type: 3}
+    Seed: {fileID: 21300000, guid: f06a32e485e818e46a5615196a75b22f, type: 3}
+    SeedLock: {fileID: 21300000, guid: ff330980478852045b4ee7f336a63d71, type: 3}
+    DonGia: 12
+    TimeCreate: 17
+    GiaTien: 25
+    KinhNghiem: 12
+    Time: 2m.50s
+    Sp: "5 D\u01B0a H\u1EA5u"
+    LvUnLock: 18
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}
+  - Id: 10
+    Name: "C\xE2y m\xEDa"
+    Img1: {fileID: 21300000, guid: 0c99d72d18ddb08459d6cf0d684bccfd, type: 3}
+    Img2: {fileID: 21300000, guid: 04f5c04f8eea63041b2abb86a464168a, type: 3}
+    Img3: {fileID: 21300000, guid: d168b2638ab3a6147a8854f900f2dbc6, type: 3}
+    Seed: {fileID: 21300000, guid: 3abfea967e5e24346819f8e3d044ea00, type: 3}
+    SeedLock: {fileID: 21300000, guid: 53034c464dde407418459d3f5464ac1a, type: 3}
+    DonGia: 15
+    TimeCreate: 21
+    GiaTien: 30
+    KinhNghiem: 15
+    Time: 3m.20s
+    Sp: "5 M\xEDa"
+    LvUnLock: 20
+    SoLuong: 0
+    obj: {fileID: 2207351735754243821, guid: 7f64d1b82de70df4e99e08b6f7719e5d, type: 3}

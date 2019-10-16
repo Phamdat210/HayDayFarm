@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035691406f53f3249bd0bf253913e5b6, type: 3}
+  m_Name: Tool
+  m_EditorClassIdentifier: 
+  data:
+  - Id: 0
+    Name: Cua sat
+    GiaTien: 10
+    Content: Dung cu dung de cua cay lay go - mo o cap 3
+    SoLuong: 0
+    Img: {fileID: 21300000, guid: fe711e3c04f15f543bb56110218fa93c, type: 3}
+    obj: {fileID: 0}
+  - Id: 1
+    Name: "Thu\u1ED1c n\u1ED5"
+    GiaTien: 10
+    Content: "D\u1EE5ng c\u1EE5 d\xF9ng \u0111\u1EC3 ph\xE1 \u0111\xE1 - m\u1EDF \u1EDF
+      c\u1EA5p \u0111\u1ED9 6"
+    SoLuong: 0
+    Img: {fileID: 21300000, guid: 5adff8ad90c7f6e46ac30f00e025e23c, type: 3}
+    obj: {fileID: 0}
+  - Id: 2
+    Name: "Gi\u1ECF hoa qu\u1EA3"
+    GiaTien: 10
+    Content: "D\u1EE5ng c\u1EE5 d\xF9ng \u0111\u1EC3 thu ho\u1EA1ch qu\u1EA3 c\u1EE7a
+      c\xE2y \u0103n qu\u1EA3 = m\u1EDF \u1EDF c\u1EA5p 9"
+    SoLuong: 0
+    Img: {fileID: 21300000, guid: 5471bafb5254fd7489975db9827fc35d, type: 3}
+    obj: {fileID: 0}
